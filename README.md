@@ -1,4 +1,5 @@
-# REDI Data Circle Project 1: HOUSEPRICE PREDICTION WITH MULTI-OUTPUT & MIXED DATA MODEL
+# REDI Data Circle Project 1: 
+## HOUSEPRICE PREDICTION WITH MULTI-OUTPUT & MIXED DATA MODEL
 
  <p align="left">
   <img src="https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/026/851/fill_200x200_redi_school.png" width="15%" height="15%">
