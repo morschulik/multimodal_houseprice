@@ -1,11 +1,12 @@
-# REDI Data Circle Projects
+# REDI Data Circle Project 1: HOUSEPRICE PREDICTION WITH MULTI-OUTPUT & MIXED DATA MODEL
 
  <p align="left">
   <img src="https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/026/851/fill_200x200_redi_school.png" width="15%" height="15%">
-
+ </p>
   <p align="centre">
   <img src="https://pyimagesearch.com/wp-content/uploads/2019/01/keras_regression_dataset.png" width="25%" height="25%">
   </p>
+  
 ## Sources 
 
 * A guide how to proceed in the project can be found [here](https://pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/)
