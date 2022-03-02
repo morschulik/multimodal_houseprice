@@ -1,9 +1,9 @@
 # REDI Data Circle Projects
 
- <p align="center">
+ <p align="left">
   <img src="https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/026/851/fill_200x200_redi_school.png" width="25%" height="25%">
-  </p>
-  <p align="center">
+
+  <p align="right">
   <img src="https://pyimagesearch.com/wp-content/uploads/2019/01/keras_regression_dataset.png" width="25%" height="25%">
   </p>
 ## Sources 
@@ -22,7 +22,7 @@
 * We then make sure lour data can be loaded, training/testing splits constructed, prices scaled, and house attributes processed
 
  <p align="center">
-  ./image1.png
+  <img src="https://github.com/morschulik/multimodal_houseprice/blob/main/image1.png" width="25%" height="25%">
   </p>
 
 ## Week 02| Training of MLP with tabular data
