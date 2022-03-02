@@ -22,7 +22,7 @@
 * We then make sure lour data can be loaded, training/testing splits constructed, prices scaled, and house attributes processed
 
  <p align="center">
-  <img src="https://pyimagesearch.com/wp-content/uploads/2019/01/keras_regression_dataset.png" width="25%" height="25%">
+  ./image1.png
   </p>
 
 ## Week 02| Training of MLP with tabular data
