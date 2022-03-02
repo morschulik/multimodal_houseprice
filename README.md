@@ -1,9 +1,9 @@
 # REDI Data Circle Projects
 
  <p align="left">
-  <img src="https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/026/851/fill_200x200_redi_school.png" width="25%" height="25%">
+  <img src="https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/026/851/fill_200x200_redi_school.png" width="15%" height="15%">
 
-  <p align="right">
+  <p align="centre">
   <img src="https://pyimagesearch.com/wp-content/uploads/2019/01/keras_regression_dataset.png" width="25%" height="25%">
   </p>
 ## Sources 
@@ -45,6 +45,9 @@
 * Another fully-connected layer is applied to match the four nodes coming out of the multi-layer perceptron and regression node is appended
 
 * We’ll then concatenate the mlp.output and cnn.output
+ <p align="center">
+  <img src="https://github.com/morschulik/multimodal_houseprice/blob/main/model.png" width="15%" height="15%">
+  </p>
 
 ## Week 04| Training our Model and Hyperparameter Tuning
 * Our model is compiled with "mean_absolute_percentage_error" loss and an Adam optimizer with learning rate decay
